@@ -1,0 +1,8 @@
+Hadi Kiamarsi  Telnet Server
+
+Username: root
+Password: ****
+
+root Welcome to Hadi Kiamarsi TELNET Server.
+
+TELNET # E:\Workspace\VB\Telnet\ >ipconfig

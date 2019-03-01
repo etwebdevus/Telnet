@@ -1,0 +1,26 @@
+Hadi Kiamarsi  Telnet Server
+
+Username: root
+Password: ****
+
+root Welcome to Hadi Kiamarsi TELNET Server.
+
+TELNET # E:\Workspace\VB\Telnet\ >ipconfig
+ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::95ef:defd:52e0:e719%4
+   IPv4 Address. . . . . . . . . . . : 192.168.200.11
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.200.1
+
+TELNET # E:\Workspace\VB\Telnet\ >hello
+'hello' is not recognized as an internal or external command,
+operable program or batch file.
+
+TELNET # E:\Workspace\VB\Telnet\ >

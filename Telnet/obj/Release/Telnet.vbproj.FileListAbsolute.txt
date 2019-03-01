@@ -1,0 +1,12 @@
+E:\Workspace\VB\Telnet\Telnet\bin\Release\Telnet.exe.config
+E:\Workspace\VB\Telnet\Telnet\bin\Release\Telnet.exe
+E:\Workspace\VB\Telnet\Telnet\bin\Release\Telnet.pdb
+E:\Workspace\VB\Telnet\Telnet\bin\Release\Telnet.xml
+E:\Workspace\VB\Telnet\Telnet\obj\Release\Telnet.frmMain.resources
+E:\Workspace\VB\Telnet\Telnet\obj\Release\Telnet.Resources.resources
+E:\Workspace\VB\Telnet\Telnet\obj\Release\Telnet.vbproj.GenerateResource.Cache
+E:\Workspace\VB\Telnet\Telnet\obj\Release\Telnet.vbproj.CoreCompileInputs.cache
+E:\Workspace\VB\Telnet\Telnet\obj\Release\Telnet.exe
+E:\Workspace\VB\Telnet\Telnet\obj\Release\Telnet.xml
+E:\Workspace\VB\Telnet\Telnet\obj\Release\Telnet.pdb
+E:\Workspace\VB\Telnet\Telnet\obj\Release\Telnet.vbprojResolveAssemblyReference.cache

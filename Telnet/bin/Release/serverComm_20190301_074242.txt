@@ -1,0 +1,15 @@
+ Volume in drive E is Local Disk
+ Volume Serial Number is 46AF-3E2F
+
+ Directory of E:\Workspace\VB\Telnet
+
+02/28/2019  19:49    <DIR>          .
+02/28/2019  19:49    <DIR>          ..
+03/01/2019  07:42               853 access.log
+02/28/2019  20:12                42 accounts.txt
+03/28/2002  08:05           499,712 HK-TELNET-SERVER.exe
+02/28/2019  20:26    <DIR>          Telnet
+02/28/2019  08:52             1,114 Telnet.sln
+               4 File(s)        501,721 bytes
+               3 Dir(s)  512,657,313,792 bytes free
+

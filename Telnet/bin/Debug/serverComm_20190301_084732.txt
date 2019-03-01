@@ -1,0 +1,5 @@
+****
+
+root Welcome to Hadi Kiamarsi TELNET Server.
+
+TELNET # E:\Workspace\VB\Telnet\ >
